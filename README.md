@@ -47,6 +47,7 @@ Software Engineer
 
 ## 📫 How to reach me
 
-[<img src="assets/envelope.png" height="50px">]()
-[<img src="assets/discord.png" height="50px">]()
+[<img src="assets/envelope.png" height="50px">]()<br>
+[<img src="assets/discord.png" height="50px">]()<br>
 [<img src="assets/x.png" height="50px">]()
+
