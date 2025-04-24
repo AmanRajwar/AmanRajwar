@@ -21,7 +21,7 @@ I’m a full-stack (aka MERN stack) developer from India 🇮🇳, passionate ab
 
 ## 🔭 I'm currently working on
 
-[<img src="assets/devops-2.svg" alt="bugsplat slingshot" height="150px">]()
+[<img src="assets/devops-2.svg" alt="bugsplat slingshot" height="100px">]()
 [<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]()
 
 ## 🌱 I’m currently learning
