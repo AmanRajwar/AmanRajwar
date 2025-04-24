@@ -19,15 +19,14 @@
 
 I’m a full-stack (aka MERN stack) developer from India 🇮🇳, passionate about writing clean, testable code with TypeScript, JavaScript, Node.js, React, and the rest of the modern web stack 💻. When I’m not deep in code or contributing to open-source, you’ll find me jamming to music 🎧, exploring new worlds in PC games 🎮, or chasing adventures through travel ✈️🌍
 
-## 🔭 I'm currently working on
+## 🔭 I'm currently working as
 
-[<img src="assets/devops-2.svg" alt="bugsplat slingshot" height="100px">]()
-[<img style="margin-left: 6.5px" src="assets/wdh-logo.png" alt="bugsplat slingshot" height="150px">]()
+Software Engineer 
 
 ## 🌱 I’m currently learning
 
-[<img src="assets/devops-2.svg" alt="bugsplat slingshot" height="150px">]()
-[![spanish flag](assets/spanish-flag-round.svg)](https://www.duolingo.com/profile/bobbyg603)
+[<img src="assets/devops-2.svg" alt="bugsplat slingshot" height="80px">]()
+
 
 <!-- ## 🔨 I've contributed to this as well -->
 
